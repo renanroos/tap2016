@@ -1,0 +1,17 @@
+CVS: 0.5
+Resumo: 1
+Projeto: 6.1
+Nota G1: 7.6
+================
+Feedback Resumo
+================
+sem parágrafo 1,5 cm. Espaçamento entre parágrafos de 0,5 cm. Texto Justificado.
+fez tópicos
+não colocou opinião
+====================
+Feedback Projeto
+====================
+Não foi criada a pasta ordenacao.
+Os métodos não foram documentados dentro do código.
+Interface gráfica OK e os cinco métodos implementados.O Tutorial de uso não está presente no Documento. Foram tiradas prints e colocadas juntos de cada método. O ideal era ter uma seção específica do documento explicando como usar o programa. Os algoritmos carecem de uma explanação mais detalhada sobre o seu funcionamento.
+
